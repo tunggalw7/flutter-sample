@@ -1,4 +1,4 @@
-package com.sample.project
+package com.prototype.sns
 
 import io.flutter.embedding.android.FlutterActivity
 
